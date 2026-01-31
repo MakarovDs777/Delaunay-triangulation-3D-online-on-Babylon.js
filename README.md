@@ -11,3 +11,5 @@
 [Delaunay triangulation 3D (Version 4 - Exploding meshes of the Delaunay triangulation) | Babylon.js Playground](https://playground.babylonjs.com/#O6V93R#1)
 
 [Delaunay triangulation 3D (Version 5 - Exploding Delaunay triangulation meshes into a line X version) | Babylon.js Playground](https://playground.babylonjs.com/#JIVZ0G)
+
+[Delaunay triangulation 3D (Version 6 - Triangulation of the created gizmo areas) | Babylon.js Playground](https://playground.babylonjs.com/#7UESQZ)
